@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date" translatable="false">July 22, 2022</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline
+    * <a href="linkUrl">Link Text</a> for links -->
+    <string-array name="changelog">
+        <item><b>It is only to post icon requests</b></item>
+        <item>Please request all the icons you want</item>
+    </string-array>
+
+</resources>

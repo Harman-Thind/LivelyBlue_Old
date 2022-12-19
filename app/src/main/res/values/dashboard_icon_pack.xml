@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Lively Blue</string>
+
+    <string name="theme_title">Bring in the blue from the material you in your life</string>
+    <string name="theme_name">Lively Blue</string>
+
+    <string name="theme_author">Virus</string>
+    <string name="developer_name">Virus</string>
+    <string name="developerName">Virus</string>
+    <string name="authorName">Virus</string>
+
+    <string name="authorLink">http://www.thevirustech.in/</string>
+    <string name="developer_link">http://www.thevirustech.in/</string>
+
+    <string name="theme_description">Bring in the blue from the material you in your life</string>
+    <string name="theme_info">Bring in the blue from the material you in your life</string>
+    <string name="theme_ad_msg">Bring in the blue from the material you in your life</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.thevirustech.materialblue</string>
+
+</resources>
